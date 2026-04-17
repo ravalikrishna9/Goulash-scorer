@@ -1,1 +1,0 @@
-# Goulash-scorer
